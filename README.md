@@ -35,7 +35,7 @@ As an example, to run a Ruby program that was stored in `some-program.rb` you wo
 
 ### Words in a Program
 
-Every word and character in a program has to be valid code for the Ruby language. Basically, every word can be one of three possible things:
+Every word and character in a program has to be valid code for the Ruby language. Basleaically, every word can be one of three possible things:
 
 1. A Ruby keyword, something that's part of the ruby language.
 2. Literal data, things like "Strings" and numbers like 1 or 2.
